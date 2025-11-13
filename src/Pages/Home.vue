@@ -1,6 +1,7 @@
 <template>
   <div class="max-w-3xl mx-auto mt-10 p-6 bg-white rounded-lg shadow-md">
     <h2 class="text-2xl font-bold mb-4">Student List</h2>
+    <h2 class="text-2xl font-bold mb-4">Student Table</h2>
     <table class="min-w-full border border-gray-200">
       <thead class="bg-blue-100">
         <tr>
